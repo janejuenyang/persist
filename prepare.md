@@ -4,6 +4,7 @@
 * Download all of your eOPF files, performance evaluations, SF-50s, leave and earnings statements, resumes, and any other paperwork you need immediately
 
 # Know Your Rights
+* Don't sign anything until you make sure you understand it. Consider consulting a lawyer.
 * [Civil Service Strong: A civil servants' checklist of current rights](https://www.civilservicestrong.org/resource/checklist-of-current-rights): a high-level roll-up
 * [Civil Service Strong: Navigating Uncertain Times: Protecting Civil Servants’ Rights](https://www.civilservicestrong.org/resource/faqs): FAQs covering: employment rights and job security; reductions in force and job losses; diversity, equity, and inclusion programs and employees; hiring freezes and job offers
 * [Congressional Research Service: an overview of Reductions in Force (RIFs) (PDF)](https://files.civilservicestrong.org/Reductions%20in%20Force%20(RIFs)_%20An%20Overview.pdf): outlines the process that is supposed to be followed when the federal government lays off people. 
