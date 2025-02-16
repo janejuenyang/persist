@@ -42,8 +42,25 @@ Letters of Appreciation for Civil Servants
     * [Utility Assistance (LIHEAP)](https://www.acf.hhs.gov/ocs/programs/liheap)
 
 # Find your next career move
-State and local government
+Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. I have also written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md).
 
-Policy
+## State and local government
+* [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
 
-Civic tech
+## Policy
+* Education
+    * [Higher Ed Policy Jobs](https://higheredpolicyjobs.org/)
+
+## Better government 
+* [Federation of American Scientists](https://fas.org/careers/)
+
+## Civic tech
+* [Tech Jobs for Good](https://www.techjobsforgood.com/)
+* [Responsible Tech](https://alltechishuman.org/responsible-tech-job-board)
+
+## Nonprofits
+* [NTEN](https://www.nten.org/jobs)
+
+## Climate and Environmental Sustainability
+* [Climatebase](https://climatebase.org/)
+* [Green Jobs Network](https://www.linkedin.com/groups/77194)
