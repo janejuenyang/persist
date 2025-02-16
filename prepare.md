@@ -5,6 +5,15 @@
 
 # Know Your Rights
 * Don't sign anything until you make sure you understand it. Consider consulting a lawyer.
+* If your position is bargaining unit eligible, contact your union rep. 
+    * To find out if you are in a bargaining unit, refer to Block 37 in your SF-50. Refer to [OPM's lst of bargaining unit codes](https://www.opm.gov/flis/#/profiles): also [on WebArchive](https://web.archive.org/web/20250207013011/https://www.opm.gov/flis/#/profiles) in case this page gets taken down. Special codes:
+        * 6666 Bargaining unit status is in transition because of a mass transfer.
+        * 7777 Eligible but not in a bargaining unit.
+        * 8888 Ineligible for inclusion in a bargaining unit.
+    * Union websites
+        * [AFGE](https://www.afge.org/join)
+        * [NTEU](https://www.nteu.org/join)
+        * [NFFE](https://www.NFFE.org)
 * [Civil Service Strong: A civil servants' checklist of current rights](https://www.civilservicestrong.org/resource/checklist-of-current-rights): a high-level roll-up
 * [Civil Service Strong: Navigating Uncertain Times: Protecting Civil Servants’ Rights](https://www.civilservicestrong.org/resource/faqs): FAQs covering: employment rights and job security; reductions in force and job losses; diversity, equity, and inclusion programs and employees; hiring freezes and job offers
 * [Congressional Research Service: an overview of Reductions in Force (RIFs) (PDF)](https://files.civilservicestrong.org/Reductions%20in%20Force%20(RIFs)_%20An%20Overview.pdf): outlines the process that is supposed to be followed when the federal government lays off people. 
@@ -22,3 +31,6 @@
     * [Electronic Frontier Foundation: Doxxing: Tips To Protect Yourself Online & How to Minimize Harm](https://www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm): high-level tips
     * [Block Party](https://www.blockpartyapp.com/) helps you review your social media presence 
     * [FBI Digital Exhaust Guide (PDF)](https://investigators-toolbox.com/wp-content/uploads/2020/09/Digital-Exhaust-Opt-Out-Guide-for-Law-Enforcement.pdf): an extensive step-by-step guide on ways to set up and use online services while mitigating doxxing risk
+* If you’re at immediate risk for being doxxed: 
+    * Reach out to the [Public Service Alliance](https://thepublicservicealliance.com/)
+    * [Digital Security Hotline](https://www.accessnow.org/help/) can support you directly
