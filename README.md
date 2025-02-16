@@ -1,4 +1,3 @@
-# persist
 # You're Not Alone
 This repository includes resources for federal civil servants, including those wrongfully impacted, organized in buckets:
 
@@ -14,3 +13,9 @@ This repository includes resources for federal civil servants, including those w
 
 # Federal Oath of Office
 I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign **and domestic**; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.
+
+# Nevertheless, We Persist
+Profiles in courage
+
+* [Phyllis Fong, Brian Driscoll, Ellen Weintraub, Hampton Dellinger, and countless additional federal employees peacefully resisting](https://robertreich.substack.com/p/profiles-in-courage) for fighting illegal dismissals
+* [Danielle Sassoon, Kevin Driscoll, John Keller](https://www.nytimes.com/2025/02/13/nyregion/danielle-sassoon-quit-eric-adams.html?searchResultPosition=1), and [Hagen Scotten](https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html) who resigned rather than obey an unsubstantiated order to drop the corruption case against Eric Adams
