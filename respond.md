@@ -10,7 +10,9 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 # File an Appeal
 * **Try replying with evidence of your performance**: if your termination letter cited poor performance, e.g. "the Agency finds that you are not fit for continued employment because your ability, knowledge and skills do not fit the Agency’s current needs, and your performance has not been adequate to justify further employment at the Agency.", reply attaching evidence of your actual performance such as PMAP reviews, written feedback from your supervisor, or awards you've received.
 
-* [Civil Service Strong: U.S. Merit Systems Protection Board (MSPB): How to File an Appeal](https://www.civilservicestrong.org/resource/us-mspb-how-to-file-an-appeal) Federal employees who are not in their probationary period have the right to file an appeal to the MSPB. The primary function of the MSPB is to protect Federal merit systems against partisan political and other prohibited personnel practices.
+* [Civil Service Strong: U.S. Merit Systems Protection Board (MSPB): How to File an Appeal](https://www.civilservicestrong.org/resource/us-mspb-how-to-file-an-appeal) Federal employees who are not in their probationary period have the right to file an appeal to the MSPB. The primary function of the MSPB is to protect Federal merit systems against partisan political and other prohibited personnel practices. (Deadline: within 30 days)
+
+* [ Equal Employment Opportunity Complaint](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): if you believe you were terminated due to discrimation because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information, contact your agency's EEO counselor (Deadline: within 45 days)
 
 # Consider Legal Action
 ## Class Actions
@@ -30,27 +32,3 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 * Mark Zaid: Attorney specializing in representing current or recent feds in whistleblower protections (if you have shared or are considering sharing information or documents obtained in work)
 * Michael Gottlieb: Attorney specializing in representing people under federal investigation.
 * [Southworth PC](https://www.attorneysforfederalemployees.com/)
-
-# Remember
-You are not alone and people are rooting for us. 
-
-**Letters of Appreciation for Civil Servants**
-* From fellow feds
-    * [To all my fellow feds, past or present](https://www.reddit.com/r/fednews/comments/1iqgcln/to_all_my_fellow_feds_past_or_present/)
-    * [To those who have dedicated their lives to public service](https://www.reddit.com/r/fednews/comments/1iptvgd/to_those_who_have_dedicated_their_lives_to_public/)
-    * [In Full Support of ALL Federal workers](https://www.reddit.com/r/fednews/comments/1ipok6m/in_full_support_of_all_federal_workers/)
-* From private citizens
-    * [a message to the feds from a citizen: thank you for your service](https://www.reddit.com/r/fednews/comments/1iau5e7/a_message_to_the_feds_from_a_citizen_thank_you/)
-    * [To the Federal Workers Who Keep This Nation Standing—We Thank You.](https://www.reddit.com/r/fednews/comments/1ida2m8/to_the_federal_workers_who_keep_this_nation/)
-* From organizations
-    * [Interfaith Alliance](https://files.civilservicestrong.org/Civil%20Service%20-%20Faith%20Letter%20-%202.5.25.pdf)
-
-**Rest is Important - Find Moments of Joy**
-* Here come the smiles
-    * [Smithsonian's National Zoo Giant Panda Cam](https://nationalzoo.si.edu/webcams/panda-cam)
-    * [Gov. Pritzker Says Lake Michigan Is Now Called Lake Illinois](https://www.youtube.com/watch?v=059lXXlPD08)
-* Playlists
-    * [Calming Instrumental Covers (Spotify)](https://open.spotify.com/playlist/37i9dQZF1DX9j444F9NCBa?si=Y9w8G-hgQAK9hp1cPYVPlA): as advertised
-    * [resilience playlist (Spotify)](https://open.spotify.com/playlist/4dGg8cXRVGDVh5hvj88CWy?si=XLFA5aUtQt2D11Yco_uylA): ballads and sass
-* Manage your doomscrolling
-    * [Lock Me Out - App/Site Blocker for Android](https://play.google.com/store/apps/details?id=com.teqtic.lockmeout)
