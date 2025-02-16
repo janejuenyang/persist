@@ -3,6 +3,12 @@
 # Whistleblow
 * [Government Accountability Project: Truth-Telling in Government - A Guide to Whistleblowing for Federal Employees, Contractors, and Grantees (PDF)](https://whistleblower.org/wp-content/uploads/2021/03/Truth-Telling-in-Government_2nd-Edition.pdf): detailed guide covering what whistleblowing is, rights and remedies, how to report safely and effectively, and other resources
 * [Whistleblower Aid](https://whistlebloweraid.org/): non-profit legal organization that helps public and private sector workers report and expose wrongdoing
+* Whistleblower Lines
+    * Science Committee: https://democrats-science.house.gov/contact/whistleblower
+    * Transportation and Infrastructure: https://democrats-transportation.house.gov/whistleblower-rights
+    * Energy and Commerce: https://democrats-energycommerce.house.gov/services/whistleblower-tipline
+    * Oversight Committee: https://oversightdemocrats.house.gov/contact/tip-line
+    * Natural Resources: https://democrats-naturalresources.house.gov/contact/tipline.*
 
 # Document Changes
 * [Data Foundation: SAFE-Track](https://datafoundation.org/pages/safetrack): a secure, encrypted channel for documenting changes to federal evidence and data activities
