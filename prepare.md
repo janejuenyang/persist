@@ -1,7 +1,9 @@
 [Return to home page](README.md)
 
 # Save Your Documents
-* Download all of your eOPF files, performance evaluations, SF-50s, leave and earnings statements, resumes, and any other paperwork you need immediately
+Download all of your eOPF files, performance evaluations, SF-50s, leave and earnings statements, resumes, and any other paperwork you need immediately
+
+* [American Foreign Service Association: Virtual Go Bag](https://afsa.org/virtual-go-bag)
 
 # Know Your Rights
 * Don't sign anything until you make sure you understand it. Consider consulting a lawyer.
