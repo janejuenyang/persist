@@ -9,6 +9,7 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 
 # File an Appeal
 * **Try replying with evidence of your performance**: if your termination letter cited poor performance, e.g. "the Agency finds that you are not fit for continued employment because your ability, knowledge and skills do not fit the Agency’s current needs, and your performance has not been adequate to justify further employment at the Agency.", reply attaching evidence of your actual performance such as PMAP reviews, written feedback from your supervisor, or awards you've received.
+    * [Informal Grievance Template for Adverse Personnel Actions](https://www.muellershewrote.com/p/informal-grievance-template-for-adverse)
 
 * [Civil Service Strong: U.S. Merit Systems Protection Board (MSPB): How to File an Appeal](https://www.civilservicestrong.org/resource/us-mspb-how-to-file-an-appeal) Federal employees who are not in their probationary period have the right to file an appeal to the MSPB. The primary function of the MSPB is to protect Federal merit systems against partisan political and other prohibited personnel practices. (Deadline: within 30 days)
 
