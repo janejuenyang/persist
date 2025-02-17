@@ -25,6 +25,7 @@ Letters of Appreciation for Civil Servants
 # Find mental health support
 * Check the Employee Assistance Program (EAP) at your agency; some continue services for a period after separation
 * Find local mental health support through the [National Alliance on Mental Health](https://www.nami.org/)
+* Find resources from the [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help)
 * Connect with other feds for mutual support -- check trusted connections for organized networks (e.g. Signal groups)
 * Lean on your personal support network -- it is okay to ask for and accept help
 
@@ -34,18 +35,22 @@ Letters of Appreciation for Civil Servants
 * [Medicaid](https://www.medicaid.gov/): if your household income has dropped significantly, you may qualify. Eligibility varies by state.
 
 # Sort out your finances
+* **Try not to make big financial decisions when very emotional**: this is a very stressful, anxiety-inducing time. It's human to feel overwhelmed. Before making big financial decisions, take a breath and consult with trusted professionals and your personal support network.
 * **Decide what to do with your retirement benefits**: if you are on TSP, you can rollover to an IRA or keep your TSP account. Review options for [FERS on OPM's website](https://www.opm.gov/retirement-center/). Link to [WebArchive in case the page is taken down.](https://web.archive.org/web/20250214141824/https://www.opm.gov/retirement-center/)
 * **Apply for public benefits**: if your household income has dropped significantly, you may qualify. Eligibility varies by state.
     * [211 (Emergency Help for Rent, Food, & Bills)](https://www.211.org); you can also call 211 
     * [Food Support (SNAP, WIC)](https://www.fns.usda.gov/snap/state-directory)
     * [Cash Assistance (TANF)](https://www.acf.hhs.gov/ofa/map/contact-information-tanf-offices)
     * [Utility Assistance (LIHEAP)](https://www.acf.hhs.gov/ocs/programs/liheap)
+* **If needed, consider an emergency loan** from the [Federal Employee Education and Assistance Fund (FEEA)](https://feea.org/)
 
 # Find your next career move
 Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. I have also written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md).
 
 ## State and local government
 * [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
+* [GovtJobs](https://www.govtjobs.com/)
+* [Work For America Civic Match](https://www.workforamerica.org/civicmatch)
 
 ## Policy
 * Education
