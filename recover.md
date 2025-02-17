@@ -30,6 +30,7 @@ Letters of Appreciation for Civil Servants
 * Lean on your personal support network -- it is okay to ask for and accept help
 
 # Get health insurance
+* Before your FEHB and FEDVIP coverage expire, try to get your annual preventative checkup appointments and order 90-day refills on any prescriptions you have
 * [31-day extension of coverage requests](https://www.opm.gov/healthcare-insurance/healthcare/reference-materials/reference/termination-conversion-and-temporary-continuation-of-coverage/#extensioncov): you must explain to your FEHB provider in writing the circumstances for seeking an additional extension
 * [Affordable Care Act Marketplace](https://healthcare.gov/): health plans you can get directly; you may qualify for subsidies
 * [Temporary continuation of coverage (TCC)](https://www.opm.gov/healthcare-insurance/healthcare/temporary-continuation-of-coverage/#url=Pamphlet) is a feature of the Federal Employees Health Benefits (FEHB) Program that allows certain people to temporarily continue their FEHB coverage after regular coverage ends. If you elect TCC, you will pay full premiums.
@@ -47,6 +48,11 @@ Letters of Appreciation for Civil Servants
     * [Cash Assistance (TANF)](https://www.acf.hhs.gov/ofa/map/contact-information-tanf-offices)
     * [Utility Assistance (LIHEAP)](https://www.acf.hhs.gov/ocs/programs/liheap)
 * **If needed, consider an emergency loan** from the [Federal Employee Education and Assistance Fund (FEEA)](https://feea.org/)
+
+# Consider telling your story
+Tens of thousands of public servants have been illegally fired since January 20, 2025 and media reports suggest hundreds of thousands more may be targeted. The loss of jobs have an immediate effect on our lives and families, but there are also huge economic and societal effects that will not be immediately obvious. More uncontrolled disease and foodborne outbreaks. More plane and car accidents. Less access to essential services in rural communities. Loss of business as households tighten budgets. Increased danger in national parks. The list is endless because federal government supports every corner of our nation's operations, from the highly visible like Social Security to the niche like overseeing nuclear waste stockpiles.
+
+If you want to help your community understand the throughline from the attack on public servants to the experiences and rights of everyday America, consider sharing your story on social media, letters to the editor or op-eds in your local newspaper, etc. [View an example outline of how to tell your story.](files/impact-story-outline.md)
 
 # Find your next career move
 Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. I have also written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md).
