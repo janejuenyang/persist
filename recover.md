@@ -30,13 +30,17 @@ Letters of Appreciation for Civil Servants
 * Lean on your personal support network -- it is okay to ask for and accept help
 
 # Get health insurance
-* Continuation of Health Coverage (COBRA): you may qualify to continue your federal health insurance coverage temporarily, though you will pay full premiums
+* [31-day extension of coverage requests](https://www.opm.gov/healthcare-insurance/healthcare/reference-materials/reference/termination-conversion-and-temporary-continuation-of-coverage/#extensioncov): you must explain to your FEHB provider in writing the circumstances for seeking an additional extension
 * [Affordable Care Act Marketplace](https://healthcare.gov/): health plans you can get directly; you may qualify for subsidies
+* [Temporary continuation of coverage (TCC)](https://www.opm.gov/healthcare-insurance/healthcare/temporary-continuation-of-coverage/#url=Pamphlet) is a feature of the Federal Employees Health Benefits (FEHB) Program that allows certain people to temporarily continue their FEHB coverage after regular coverage ends. If you elect TCC, you will pay full premiums.
 * [Medicaid](https://www.medicaid.gov/): if your household income has dropped significantly, you may qualify. Eligibility varies by state.
 
 # Sort out your finances
 * **Try not to make big financial decisions when very emotional**: this is a very stressful, anxiety-inducing time. It's human to feel overwhelmed. Before making big financial decisions, take a breath and consult with trusted professionals and your personal support network.
-* **Decide what to do with your retirement benefits**: if you are on TSP, you can rollover to an IRA or keep your TSP account. Review options for [FERS on OPM's website](https://www.opm.gov/retirement-center/). Link to [WebArchive in case the page is taken down.](https://web.archive.org/web/20250214141824/https://www.opm.gov/retirement-center/)
+* **Decide what to do with your retirement benefits**:
+    * If you are on TSP, you can rollover to an IRA or keep your TSP account. Review options for [FERS on OPM's website](https://www.opm.gov/retirement-center/fers-information/former-employees/). Link to [WebArchive in case the page is taken down.](https://web.archive.org/web/20250213184222/https://www.opm.gov/retirement-center/fers-information/former-employees/)
+    * You can get a refund of your FERS retirement contributions, which can be paid out in cash or rolled into an IRA. Learn more about [FERS options for former feds on OPM's website](https://www.opm.gov/retirement-center/fers-information/former-employees/).
+    * If you are 55 or older, familiarize yourself with the [TSP Rule of 55](https://www.federalpensionadvisors.com/post/tsp-rule-of-55)
 * **Apply for public benefits**: if your household income has dropped significantly, you may qualify. Eligibility varies by state.
     * [211 (Emergency Help for Rent, Food, & Bills)](https://www.211.org); you can also call 211 
     * [Food Support (SNAP, WIC)](https://www.fns.usda.gov/snap/state-directory)
