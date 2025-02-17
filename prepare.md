@@ -10,7 +10,7 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
 * If your position is bargaining unit eligible, contact your union rep. 
     * To find out if you are in a bargaining unit, refer to Block 37 in your SF-50. Refer to [OPM's lst of bargaining unit codes](https://www.opm.gov/flis/#/profiles): also [on WebArchive](https://web.archive.org/web/20250207013011/https://www.opm.gov/flis/#/profiles) in case this page gets taken down. Special codes:
         * 6666 Bargaining unit status is in transition because of a mass transfer.
-        * 7777 Eligible but not in a bargaining unit.
+        * 7777 Eligible but not in a bargaining unit. To get started organizing a union, you can get in touch with the [Emergency Workplace Organizing Committee](https://workerorganizing.org/)
         * 8888 Ineligible for inclusion in a bargaining unit.
     * Union websites
         * [AFGE](https://www.afge.org/join)
