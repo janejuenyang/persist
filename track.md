@@ -14,5 +14,7 @@ This page includes trackers compiled by credible sources.
 
 * [New York Times: Where Trump, Musk, and DOGE have Cut Federal Workers So Far](https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html?unlocked_article_code=1.xE4.nznv.BSeYFQdp-gw9&smid=url-share)
 
+* [Wall Street Journal: DOGE’s Federal Job Cuts Threaten Republican Districts Too](https://www.wsj.com/politics/policy/federal-workers-doge-job-cuts-maps-988416ec)
+
 # Administration Actions
 * [New York Times: All of the Trump Administration’s Major Moves](https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html?unlocked_article_code=1.xE4.qNem.x-SBcxh2p2Mt&smid=url-share)
