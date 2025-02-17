@@ -73,7 +73,8 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
 * [Tech Jobs for Good](https://www.techjobsforgood.com/)
 * [Responsible Tech](https://alltechishuman.org/responsible-tech-job-board)
 
-## Nonprofits
+## Nonprofits and Foundations
+* [Interested? Newsletter](https://us4.campaign-archive.com/home/?u=6120d8735c3f8ce61ae491a18&id=c62e604b26)
 * [NTEN](https://www.nten.org/jobs)
 
 ## Climate and Environmental Sustainability
