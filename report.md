@@ -26,6 +26,7 @@
 
 * [Federal News Network](https://federalnewsnetwork.com/) Jory Heckman Signal: jheckman.29, JHeckman@FederalNewsNetwork.com
 * [FedScoop](https://fedscoop.com/) Caroline Nihill (267) 275-5521
+* [Fierce Healthcare](https://www.fiercehealthcare.com/) Noah Tong ntong@questex.com / Signal at ntong.49
 * [GovExec](https://www.govexec.com/) Dave Dimolfetta ddimolfetta@govexec.com or Signal @ djd.99 
 * [Guardian](https://www.theguardian.com/us-news/us-politics): covers NOAA; Signal at davelevitan.26
 * [NBC News](https://www.nbcnews.com/politics): interested in speaking with people who are familiar with the specific technical details of onboarding DOGE staff at the federal agency level — USAID or CFPB or wherever. You can reach me on Signal at: davidingram.77. Will honor requests for anonymity.
