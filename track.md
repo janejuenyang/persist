@@ -3,6 +3,8 @@
 This page includes trackers compiled by credible sources.
 
 # Litigation
+* [Democracy Docket](https://www.democracydocket.com/)
+
 * [New York Times: Tracking the Lawsuits Against Trump's Agenda](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html?unlocked_article_code=1.xE4.9VlA.NZSFkQ8LDwnT&smid=url-share)
 
 * [Just Security: Litigation Tracker: Legal Challenges to Trump Administration Actions](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)
