@@ -24,6 +24,7 @@ This page includes trackers compiled by credible sources.
 * More disease outbreaks
     * [AP: Trump administration cuts reach FDA employees in food safety, medical devices and tobacco products](https://apnews.com/article/fda-job-cuts-trump-hhs-kennedy-cdc-nih-76dee97eee8209b2605fadac34427aab)
     * [CBS News: CDC's "disease detectives" halved as part of DOGE cuts at health agencies](https://www.cbsnews.com/news/cdc-disease-detectives-doge-cuts-health-agencies/)
+    * [The Mercury: Source: At least 28 NBAF employees fired as part of USDA's cuts](https://themercury.com/news/source-at-least-28-nbaf-employees-fired-as-part-of-usdas-cuts/article_12087e38-ed5a-11ef-9771-87bba050d7f1.html)
     * [NPR: Health agencies lose staff in key areas as Trump firings set in](https://www.npr.org/sections/shots-health-news/2025/02/17/nx-s1-5300052/federal-employees-layoffs-cdc-nih-fda)
 
 * More scams
