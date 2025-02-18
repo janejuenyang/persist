@@ -44,7 +44,9 @@
     * Raphael Satter raphaelsatte.12
 * [Washington Post](https://www.washingtonpost.com/): want to speak to people at agencies where DOGE is working:
     * Elizabeth Dwoskin: elizabeth.dwoskin@washpost.com or lizza_dwoskin.42 on Signal.
+    * Emily Davies: emily.davies@washpost.com or 202-412-9091 on Signal
     * Hannah Natanson: hannah.natanson@washpost.com or natanson.11 on Signal
-    * Jeff Stein: (917) 887-2891 on Signal
+    * Jeff Stein: jeff.stein@washpost.com or jstein_wapo.1066 on Signal
     * Jonathan O’Connell: jonathan.oconnell@washpost.com or jonathanoc.76 on Signal
+    * Lisa Rein: lisa.rein@washpost.com or 202-821-3120 on Signal
 * [Wired](https://www.wired.com/category/politics/): using a nonwork phone or computer, contact the reporter securely using a personal device on Signal at makenakelly.32
