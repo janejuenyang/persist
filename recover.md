@@ -23,6 +23,7 @@ Letters of Appreciation for Civil Servants
     * [Lock Me Out - App/Site Blocker for Android](https://play.google.com/store/apps/details?id=com.teqtic.lockmeout)
 
 # Find mental health support
+* **If you are in crisis, call 988**
 * Check the Employee Assistance Program (EAP) at your agency; some continue services for a period after separation
 * Find local mental health support through the [National Alliance on Mental Health](https://www.nami.org/) or [Open Path Collective](https://openpathcollective.org/)
 * Find resources from the [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help)
