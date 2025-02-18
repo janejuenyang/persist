@@ -5,7 +5,7 @@ This repository includes resources for federal civil servants, including those w
 
 2. How to [respond](respond.md) after wrongful termination
 
-3. Support responses for [recovery](recover.md), mentally and financially
+3. Support resources for [recovery](recover.md), mentally and financially
 
 4. Ways to [report](report.md) wrongdoing
 
