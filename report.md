@@ -24,12 +24,18 @@
 
 *Disclaimer*: this list is informational only, not recommendations
 
+* [Federal News Network](https://federalnewsnetwork.com/) Jory Heckman Signal: jheckman.29, JHeckman@FederalNewsNetwork.com
 * [FedScoop](https://fedscoop.com/) Caroline Nihill (267) 275-5521
+* [GovExec](https://www.govexec.com/) Dave Dimolfetta ddimolfetta@govexec.com or Signal @ djd.99 
 * [Guardian](https://www.theguardian.com/us-news/us-politics): covers NOAA; Signal at davelevitan.26
 * [NBC News](https://www.nbcnews.com/politics): interested in speaking with people who are familiar with the specific technical details of onboarding DOGE staff at the federal agency level — USAID or CFPB or wherever. You can reach me on Signal at: davidingram.77. Will honor requests for anonymity.
 * [New York Times](https://www.nytimes.com/section/politics)
     * [Kate Conger](https://www.nytimes.com/by/kate-conger): focused on DOGE
     * [Madeline Ngo](https://www.nytimes.com/by/madeleine-ngo): focused on economic policy
+* [NPR](https://www.npr.org/sections/politics/) via Signal:
+    * Will Stone @wstonereports.95
+    * Pien Huang @pienhuang.88 
+    * Rob Stein @robstein.22.
 * [Politico](https://www.politico.com/): Derek Robinson: +1 (810) 444-6131
 * [Popular Information](https://popular.info/about): If you work for the federal government and have information about what’s going on at your agency, please contact me via Signal at juddlegum.47. Especially interested in speaking to people who work for the CFPB.
 * [ProPublica](https://www.propublica.org/topics/politics): https://www.propublica.org/tips/federal-workers/
