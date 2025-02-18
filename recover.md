@@ -58,7 +58,7 @@ Tens of thousands of public servants have been illegally fired since January 20,
 If you want to help your community understand the throughline from the attack on public servants to the experiences and rights of everyday America, consider sharing your story on social media, letters to the editor or op-eds in your local newspaper, etc. [View an example outline of how to tell your story.](files/impact-story-outline.md)
 
 # Find your next career move
-Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. I have also written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md).
+Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. I have also written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md) and former fed Andrew Fabrizio has shared tips on [framing government experience for corporate roles](https://medium.com/@andrewdfabrizio/gov-to-tech-framing-government-experience-for-corporate-roles-c37100581351).
 
 ## State and local government
 * [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
