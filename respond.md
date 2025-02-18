@@ -8,13 +8,19 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 ](https://docs.google.com/document/d/1RISRRrFQkSNpj6xU2RwJnYOJopG8xzoGcGvem0MHa_U/edit?tab=t.0): by Andrew Stettner, former DOL appointee and Director of Unemployment Insurance Modernization (2022-2024) and Director of Economy and Jobs, The Century Foundation
 
 # File an Appeal
+[Protect Democracy: Understanding the Termination of Federal Probationary Employees and Their Rights](https://protectdemocracy.org/wp-content/uploads/2025/02/Termination-of-Probationary-employees.pdf)
+
 * **File a grievance report through your agency**: federal agencies have their own administrative grievance policies. Typically these outline how federal employees can file informal and formal grievance reports. (Deadline: varies by agency; example: [HHS Instruction 771-3](https://www.hhs.gov/sites/default/files/hr-resource-library-771-1.pdf)); generally within 15 days of notice)
     * [Example request for termination reconsideration](files/reconsideration-request-template.md)
     * [Informal Grievance Template for Adverse Personnel Actions](https://www.muellershewrote.com/p/informal-grievance-template-for-adverse)
 
 * [Civil Service Strong: U.S. Merit Systems Protection Board (MSPB): How to File an Appeal](https://www.civilservicestrong.org/resource/us-mspb-how-to-file-an-appeal) Federal employees in the competitive service and/or past their probationary periods have the right to file an appeal to the MSPB if their terminations are based on partisan political reasons or their marital status [5 C.F.R. § 315.806(b)](https://www.law.cornell.edu/cfr/text/5/315.806) or due to improper procedures [5 C.F.R. § 315.805](https://www.law.cornell.edu/cfr/text/5/315.805). The primary function of the MSPB is to protect Federal merit systems against partisan political and other prohibited personnel practices. (Deadline: within 30 days)
 
-* [ Equal Employment Opportunity Complaint](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): if you believe you were terminated due to discrimation because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information, contact your agency's EEO counselor (Deadline: within 45 days)
+* [Office of Special Counsel (OSC)](https://osc.gov/Services/Pages/PPP-FileComplaint.aspx): Employees may file complaints with the Office of Special Counsel alleging the government committed a prohibited personnel practice, such as whistleblower retaliation. 5 U.S.C. §§ [1214](https://www.law.cornell.edu/uscode/text/5/1214), [2302](https://www.law.cornell.edu/uscode/text/5/2302); [5 C.F.R. part 1800](https://www.ecfr.gov/current/title-5/chapter-VIII/part-1800). 
+
+* [Equal Employment Opportunity (EEO) Complaint](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): if you believe you were terminated due to discrimation because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information, contact your agency's EEO counselor (Deadline: within 45 days)
+
+* **Union Contracts**: Employees who are in a collective bargaining unit can also contact their union for guidance on any options under their collective bargaining agreement.
 
 # Consider Legal Action
 *Note*: federal employees must exhaust their administrative remedies before going to court.
