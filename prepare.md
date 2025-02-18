@@ -4,6 +4,7 @@
 Download all of your eOPF files, performance evaluations, SF-50s, leave and earnings statements, resumes, and any other paperwork you need immediately
 
 * [American Foreign Service Association: Virtual Go Bag](https://afsa.org/virtual-go-bag)
+* [USAJOBS: Reading your SF-50 to determine your service and appointment type](https://help.usajobs.gov/working-in-government/service/sf-50)
 
 # Know Your Rights
 * Don't sign anything until you make sure you understand it. Consider consulting a lawyer.
