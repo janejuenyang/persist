@@ -21,6 +21,8 @@ This page includes trackers compiled by credible sources.
 # Administration Actions
 * [New York Times: All of the Trump Administration’s Major Moves](https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html?unlocked_article_code=1.xE4.qNem.x-SBcxh2p2Mt&smid=url-share)
 
+* [New York Times: Which Federal Programs Are Under Scrutiny? The Budget Office Named 2,600 of Them.](https://www.nytimes.com/interactive/2025/01/28/upshot/federal-programs-funding-trump-omb.html?unlocked_article_code=1.s04.7nEL.x2963ohitDJR&amp;smid=nytcore-ios-share&amp;referringSource=articleShare)
+
 # Impact of a Gutted Federal Government
 
 * More disease outbreaks
