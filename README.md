@@ -27,5 +27,6 @@ Profiles in courage
 
 * [Phyllis Fong, Brian Driscoll, Ellen Weintraub, Hampton Dellinger, and countless additional federal employees peacefully resisting](https://robertreich.substack.com/p/profiles-in-courage) for fighting illegal dismissals
 * [Danielle Sassoon, Kevin Driscoll, John Keller](https://www.nytimes.com/2025/02/13/nyregion/danielle-sassoon-quit-eric-adams.html?searchResultPosition=1), and [Hagen Scotten](https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html) who resigned rather than obey an unsubstantiated order to drop the corruption case against Eric Adams
+* [Michelle King](https://wapo.st/3EWwU1u) who resigned rather than grant DOGE access to the highly-restricted tax system that contains detailed financial information about you (and every person, business, and nonprofit in the country)
 * [Humans of Public Service](https://www.humansofpublicservice.org/): the human side of government through the stories of those who serve
 * [Who is Government?](https://www.washingtonpost.com/opinions/interactive/2025/who-is-government/): from the Washington Post, seven writers go in search of the essential public servant
