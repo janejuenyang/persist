@@ -13,6 +13,7 @@
 
 # Document Changes
 * [Data Foundation: SAFE-Track](https://datafoundation.org/pages/safetrack): a secure, encrypted channel for documenting changes to federal evidence and data activities
+    * [Data Rescue Project](https://www.datarescueproject.org/current-efforts/) is a coordinated effort among a group of data organizations to serve as a clearinghouse for data rescue-related efforts and data access points for public US governmental data that are currently at risk
 
 # Send a Tip to Reporters
 **Things to know about talking to reporters**
