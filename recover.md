@@ -9,6 +9,7 @@ Letters of Appreciation for Civil Servants
     * [To those who have dedicated their lives to public service](https://www.reddit.com/r/fednews/comments/1iptvgd/to_those_who_have_dedicated_their_lives_to_public/)
     * [In Full Support of ALL Federal workers](https://www.reddit.com/r/fednews/comments/1ipok6m/in_full_support_of_all_federal_workers/)
 * From private citizens
+    * [To the federal workers being terrorized: thank you from a grateful citizen ](https://www.reddit.com/r/fednews/comments/1it9c7u/to_the_federal_workers_being_terrorized_thank_you/)
     * [a message to the feds from a citizen: thank you for your service](https://www.reddit.com/r/fednews/comments/1iau5e7/a_message_to_the_feds_from_a_citizen_thank_you/)
     * [To the Federal Workers Who Keep This Nation Standing—We Thank You.](https://www.reddit.com/r/fednews/comments/1ida2m8/to_the_federal_workers_who_keep_this_nation/)
     * [An Open letter to HHS’ career employees](https://jeffnesbit.medium.com/thank-you-47232956e99d)
