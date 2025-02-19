@@ -45,6 +45,6 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 
 # Call Your Representatives
 
-Explain what happened to you and how your job affects everyday people in your district/state.
+Explain what happened to you and how your job affects everyday people in your district/state. [View a sample script.](https://docs.google.com/document/d/1ND8PKeDeHlYy__COetAyeAZgrlA2kmNGrvznLG5qE0U/edit?tab=t.0)
 
 You can find your congressional representatives' contact information on their websites. One tool that makes it easier to call your reps is https://5calls.org/.
