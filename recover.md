@@ -66,6 +66,8 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
 * I have written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md) 
 * Former fed Andrew Fabrizio has shared tips on [framing government experience for corporate roles](https://medium.com/@andrewdfabrizio/gov-to-tech-framing-government-experience-for-corporate-roles-c37100581351).
 * Anita Brady, a workforce development executive, is [offering free 1-hr career coaching sessions to any federal government employee who was illegally fired](https://www.linkedin.com/posts/activity-7296482969907593216-1cwT/)
+* The Job Hopper team of job search consultants have put out a [SPECIAL EDITION: Resources for Unemployed Federal Workers](https://thejobhopper.substack.com/p/special-edition-resources-for-unemployed)
+    * Personal tip for anyone considering using the listed AI tools: ***remember to review the results and fact-check!*** The type of AI used in these tools are optimized to create something that sounds plausible, but isn't necessarily accuracy.
 
 ## State and local government
 * [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
