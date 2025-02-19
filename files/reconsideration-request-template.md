@@ -1,5 +1,6 @@
+*Disclaimer*: Please review these templates and adapt/revise for your individual situation. Some parts may not be applicable to your position / appointment type.
 
-# Template 1: Cites US Code
+# Example 1: Cites US Code
 *Source:* https://www.reddit.com/r/firedfeds/comments/1is3onj/rebuttal_letter_template/
 
  Rebuttal Letter For Termination
@@ -20,9 +21,9 @@ I am writing in response to the termination notice I received, which states that
 
 As a probationary employee, I understand that my employing agency has the authority to terminate my appointment based on performance under 5 C.F.R. § 315.804 (see 5 C.F.R. § 315.804). However, this regulation establishes specific requirements that do not appear to have been fully followed in my case:
 
-1. Written Notice Stating Specific Reasons for Termination • 5 C.F.R. § 315.804(a) (see 5 C.F.R. § 315.804) states that an agency must provide a probationary employee with “notice in writing as to why the employee is being separated.” The termination notice I received does not contain any specific reasons or evidence supporting the claim of “performance issues.”
+1. Written Notice Stating Specific Reasons for Termination • [5 C.F.R. § 315.804(a)](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-315/subpart-H/section-315.804) states that an agency must provide a probationary employee with “notice in writing as to why the employee is being separated.” The termination notice I received does not contain any specific reasons or evidence supporting the claim of “performance issues.”
 
-2. Official Agency Documentation • Per 5 C.F.R. § 315.804(b) (see 5 C.F.R. § 315.804), an agency must have documented reasons supporting the termination of a probationary employee. I request copies of any relevant records, including performance evaluations, counseling records, and any prior warnings or notices provided to me.
+2. Official Agency Documentation • Per [5 C.F.R. § 315.804(a)](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-315/subpart-H/section-315.804), an agency must have documented reasons supporting the termination of a probationary employee. I request copies of any relevant records, including performance evaluations, counseling records, and any prior warnings or notices provided to me.
 
 **Role of OPM and Agency Responsibility**
 
@@ -44,7 +45,7 @@ I believe that transparency and adherence to due process are essential in federa
 
 Sincerely, [Your Name] 
 
-# Template 2
+# Example 2
 
 **Subject**: Request for Reconsideration of Termination
 
