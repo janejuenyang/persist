@@ -3,7 +3,7 @@ Federal employees have restrictions on post-federal employment for ethical reaso
 
 *Disclaimer*: The following is informational, not legal advice.
 
-If you have been put on administrative leave or illegally fired, you are not required to notified anyone such as your agency Ethics office regarding your job search. However, as you transition from federal service, remember the statutes governing post-employment that apply to all federal employees. Specifically, Procurement Rules when Seeking Employment
+If you have been put on administrative leave or illegally fired, you are not required to notify anyone such as your agency Ethics office regarding your job search. However, as you transition from federal service, remember the statutes governing post-employment that apply to all federal employees. Specifically, Procurement Rules when Seeking Employment
 
 # Two-Year Official Responsibility Provision
 [18 U.S.C. § 207(a)(2) Two-Year Official Responsibility Provision](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim). For two years after leaving federal employment, former employees cannot make representational communications to or appearances before the Government regarding specific party matters that were pending under their official responsibility during their last year of government service. See also [5 C.F.R. § 2641.202](https://www.ecfr.gov/cgi-bin/text-idx?SID=f75b05e6e58136dde880173e3942eead&mc=true&node=se5.3.2641_1202&rgn=div8).
