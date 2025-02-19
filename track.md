@@ -10,6 +10,8 @@ This page includes trackers compiled by credible sources.
 * [Just Security: Litigation Tracker: Legal Challenges to Trump Administration Actions](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)
 
 # Illegally Fired Federal Employees
+* [Federal News Network: A comprehensive look at DOGE’s firings and layoffs so far](https://federalnewsnetwork.com/agency-oversight/2025/02/a-comprehensive-look-at-doges-firings-and-layoffs-so-far/)
+
 * [CivicTechStrong: Federal Probationary/Term Employee Firings Tracker](https://civictechstrong.org/federal-probationary-term-employee-firings-tracker/)
     * **Probationary employees** are still within their first 1-2 years of federal employment. 
     * **Term employees** are hired for 1-4 years. This hiring mechanism is often used to bring technical talent into the Federal government. [Learn more about term appointments from the Federal Registrar.](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-316)
