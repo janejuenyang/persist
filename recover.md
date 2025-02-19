@@ -78,6 +78,7 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
 
 ## Nonprofits and Foundations
 * [Interested? Newsletter](https://us4.campaign-archive.com/home/?u=6120d8735c3f8ce61ae491a18&id=c62e604b26)
+* [Grantmakers in Health](https://www.gih.org/tools-resources/philanthropy-careers/)
 * [NTEN](https://www.nten.org/jobs)
 
 ## Climate and Environmental Sustainability
