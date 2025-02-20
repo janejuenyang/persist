@@ -58,7 +58,7 @@ Sincerely, [Your Name]
 * Your agency's administration leads
 * (If applicable) Union chapter representative and president
 * Hampton Dellinger, Office of Special Counsel: info@osc.gov
-* Your congressional representative and senators
+* Your congressional representatives (house and senators) -- find them via [Congress.gov](https://www.congress.gov/members/find-your-member)
 
 **Contents**
 
