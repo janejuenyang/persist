@@ -29,17 +29,17 @@ As a probationary employee, I understand that my employing agency has the author
 
 I also seek clarification on whether my termination was initiated solely by my employing agency or if OPM has taken an active role in this decision. According to 5 C.F.R. § 315.804, it is my employing agency’s responsibility—not OPM’s—to take and justify termination actions. If OPM has issued this notice independently, I request an explanation of its authority to do so.
 
-Request for Justification and Due Process
+**Request for Justification and Due Process**
 
 To ensure my rights are upheld, I respectfully request:
 
-    A clear and specific explanation of the performance deficiencies that led to my termination, as required by 5 C.F.R. § 315.804(a) (see 5 C.F.R. § 315.804).
+1. A clear and specific explanation of the performance deficiencies that led to my termination, as required by 5 C.F.R. § 315.804(a) (see 5 C.F.R. § 315.804).
 
-    Copies of any performance evaluations, counseling records, or other documentation used as the basis for my removal, per 5 C.F.R. § 315.804(b) (see 5 C.F.R. § 315.804).
+2. Copies of any performance evaluations, counseling records, or other documentation used as the basis for my removal, per 5 C.F.R. § 315.804(b) (see 5 C.F.R. § 315.804).
 
-    Confirmation of whether my termination was initiated solely by my employing agency or if OPM played a role in this decision.
+3. Confirmation of whether my termination was initiated solely by my employing agency or if OPM played a role in this decision.
 
-    Information on my rights to respond or appeal, including whether I have recourse through the Merit Systems Protection Board (MSPB) under 5 C.F.R. § 315.806 (see 5 C.F.R. § 315.806).
+4. Information on my rights to respond or appeal, including whether I have recourse through the Merit Systems Protection Board (MSPB) under 5 C.F.R. § 315.806 (see 5 C.F.R. § 315.806).
 
 I believe that transparency and adherence to due process are essential in federal employment matters. I appreciate your prompt attention to this matter and look forward to your response.
 
