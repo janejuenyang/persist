@@ -7,6 +7,8 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
 * [USAJOBS: Reading your SF-50 to determine your service and appointment type](https://help.usajobs.gov/working-in-government/service/sf-50)
 
 # Know Your Rights
+
+## In general
 * Don't sign anything until you make sure you understand it. Consider consulting a lawyer.
 * If your position is bargaining unit eligible, contact your union rep. 
     * To find out if you are in a bargaining unit, refer to Block 37 in your SF-50. Refer to [OPM's lst of bargaining unit codes](https://www.opm.gov/flis/#/profiles): also [on WebArchive](https://web.archive.org/web/20250207013011/https://www.opm.gov/flis/#/profiles) in case this page gets taken down. Special codes:
@@ -18,14 +20,19 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
         * [NTEU](https://www.nteu.org/join)
         * [NFFE](https://www.NFFE.org)
 * [Civil Service Strong: A civil servants' checklist of current rights](https://www.civilservicestrong.org/resource/checklist-of-current-rights): a high-level roll-up
-* [Civil Service Strong: Navigating Uncertain Times: Protecting Civil Servants’ Rights](https://www.civilservicestrong.org/resource/faqs): FAQs covering: employment rights and job security; reductions in force and job losses; diversity, equity, and inclusion programs and employees; hiring freezes and job offers
-* [Protect Democracy: Understanding the Termination of
-Federal Probationary Employees and
-Their Rights](https://protectdemocracy.org/wp-content/uploads/2025/02/Termination-of-Probationary-employees.pdf): a guide for competitive and excepted service probationary employees
-* [Congressional Research Service: an overview of Reductions in Force (RIFs) (PDF)](https://files.civilservicestrong.org/Reductions%20in%20Force%20(RIFs)_%20An%20Overview.pdf): outlines the process that is supposed to be followed when the federal government lays off people. 
-* [Just Security: Federal Employee Rights: What **Probationary** Employees Need to Know](https://www.justsecurity.org/107230/federal-employee-rights-probationary-faqs/): frequently asked questions about probationary employment in the federal government
-* [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): If you are a federal employee or job applicant, the law protects you from discrimination because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information. The law also protects you from retaliation if you oppose employment discrimination, file a complaint of discrimination, or participate in the EEO complaint process (even if the complaint is not yours.) [View the WebArchive in case the original website is taken down.](https://web.archive.org/web/20250215075905/https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process)
 * [Partnership for Public Service Federal Employee Resource Hub](https://ourpublicservice.org/supporting-federal-employees-through-change/): includes webinar explainer series and other resources
+* [Civil Service Strong: Navigating Uncertain Times: Protecting Civil Servants’ Rights](https://www.civilservicestrong.org/resource/faqs): FAQs covering: employment rights and job security; reductions in force and job losses; diversity, equity, and inclusion programs and employees; hiring freezes and job offers
+
+## For people in their "probationary" period, e.g. first 1-2 years of service or as a new supervisor
+* [Protect Democracy: Understanding the Termination of Federal Probationary Employees and Their Rights](https://protectdemocracy.org/wp-content/uploads/2025/02/Termination-of-Probationary-employees.pdf): a guide for competitive and excepted service probationary employees
+* [Just Security: Federal Employee Rights: What **Probationary** Employees Need to Know](https://www.justsecurity.org/107230/federal-employee-rights-probationary-faqs/): frequently asked questions about probationary employment in the federal government
+
+## On reductions-in-force (RIFs)
+* [Congressional Research Service: an overview of Reductions in Force (RIFs) (PDF)](https://files.civilservicestrong.org/Reductions%20in%20Force%20(RIFs)_%20An%20Overview.pdf): outlines the process that is supposed to be followed when the federal government lays off people. 
+* [Lawfare: A Primer on Reductions in Force](https://www.lawfaremedia.org/article/a-primer-on-reductions-in-force)
+
+## On filing a complaint if you believe you were discriminated against
+* [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): If you are a federal employee or job applicant, the law protects you from discrimination because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information. The law also protects you from retaliation if you oppose employment discrimination, file a complaint of discrimination, or participate in the EEO complaint process (even if the complaint is not yours.) [View the WebArchive in case the original website is taken down.](https://web.archive.org/web/20250215075905/https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process)
 
 # Be Safe
 * As always, don't do anything personal on your government-furnished equipment.
