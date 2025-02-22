@@ -25,8 +25,11 @@ I do solemnly swear (or affirm) that I will support and defend the Constitution 
 # Nevertheless, We Persist
 Profiles in courage
 
-* [Phyllis Fong, Brian Driscoll, Ellen Weintraub, Hampton Dellinger, and countless additional federal employees peacefully resisting](https://robertreich.substack.com/p/profiles-in-courage) for fighting illegal dismissals
-* [Danielle Sassoon, Kevin Driscoll, John Keller](https://www.nytimes.com/2025/02/13/nyregion/danielle-sassoon-quit-eric-adams.html?searchResultPosition=1), and [Hagen Scotten](https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html) who resigned rather than obey an unsubstantiated order to drop the corruption case against Eric Adams
-* [Michelle King](https://wapo.st/3EWwU1u) who resigned rather than grant DOGE access to the highly-restricted tax system that contains detailed financial information about you (and every person, business, and nonprofit in the country)
+* [New York Times The Daily: Inside the Trump Purge: Federal Workers Tell Their Story](https://www.nytimes.com/2025/02/19/podcasts/the-daily/trump-ederal-workers-musk.html)
 * [Humans of Public Service](https://www.humansofpublicservice.org/): the human side of government through the stories of those who serve
 * [Who is Government?](https://www.washingtonpost.com/opinions/interactive/2025/who-is-government/): from the Washington Post, seven writers go in search of the essential public servant
+
+
+* [Phyllis Fong, Brian Driscoll, Ellen Weintraub, Hampton Dellinger, and countless additional federal employees peacefully resisting](https://robertreich.substack.com/p/profiles-in-courage) are fighting illegal dismissals
+* [Danielle Sassoon, Kevin Driscoll, John Keller](https://www.nytimes.com/2025/02/13/nyregion/danielle-sassoon-quit-eric-adams.html?searchResultPosition=1), and [Hagen Scotten](https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html) resigned after being directed to drop the corruption case against Eric Adams, citing the government does not have a valid basis to seek dismissal
+* [Michelle King](https://wapo.st/3EWwU1u) resigned after being asked to give DOGE access to the highly-restricted tax system that contains detailed financial information about you (and every person, business, and nonprofit in the country)
