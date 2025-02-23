@@ -26,6 +26,8 @@ This page includes trackers compiled by credible sources.
 * [New York Times: Which Federal Programs Are Under Scrutiny? The Budget Office Named 2,600 of Them.](https://www.nytimes.com/interactive/2025/01/28/upshot/federal-programs-funding-trump-omb.html?unlocked_article_code=1.s04.7nEL.x2963ohitDJR&amp;smid=nytcore-ios-share&amp;referringSource=articleShare)
 
 # Impact of a Gutted Federal Government
+* Felt across the nation
+   * [Dear Civil Servant: Blast Radius of Purges](https://www.ifyoucankeepit.org/p/blast-radius-of-purges): sample of downstream effects across all 50 states, D.C., and Puerto Rico    
 
 * More disease outbreaks
     * [AP: Trump administration cuts reach FDA employees in food safety, medical devices and tobacco products](https://apnews.com/article/fda-job-cuts-trump-hhs-kennedy-cdc-nih-76dee97eee8209b2605fadac34427aab)
