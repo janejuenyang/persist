@@ -65,6 +65,7 @@ If you want to help your community understand the throughline from the attack on
 Beyond your personal network and general job aggregators like LinkedIn and Indeed, there are many domain and sector-specific job boards. Below are a curated list to get you started. In addition:
 
 * **Remember your post-federal employment restrictions**. Review some reminders of relevant [post-federal employment restriction laws](files/post-federal-employment-law-reminders.md).
+* Explore the [The Career Pivot Canvas for Purpose-Driven Professionals](https://www.syntelos.co/nonprofit-strategy-articles/the-career-pivot-canvas-for-purpose-driven-professionals)
 * I have written up some [tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md) 
 * Former fed Andrew Fabrizio has shared tips on [framing government experience for corporate roles](https://medium.com/@andrewdfabrizio/gov-to-tech-framing-government-experience-for-corporate-roles-c37100581351).
 * Anita Brady, a workforce development executive, is [offering free 1-hr career coaching sessions to any federal government employee who was illegally fired](https://www.linkedin.com/posts/activity-7296482969907593216-1cwT/)
