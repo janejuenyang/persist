@@ -92,6 +92,8 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
 ## Civic tech
 * [Tech Jobs for Good](https://www.techjobsforgood.com/)
 * [Responsible Tech](https://alltechishuman.org/responsible-tech-job-board)
+* [GovTech Talent Campaign](https://www.linkedin.com/groups/13175309/)
+* [DSCovery](https://dscovery.fly.dev/)
 
 ## Nonprofits and Foundations
 * [Interested? Newsletter](https://us4.campaign-archive.com/home/?u=6120d8735c3f8ce61ae491a18&id=c62e604b26)
