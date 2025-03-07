@@ -10,6 +10,8 @@ This page includes trackers compiled by credible sources.
 * [Just Security: Litigation Tracker: Legal Challenges to Trump Administration Actions](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)
 
 # Illegally Fired Federal Employees
+* [CNN: Tracking Trump’s overhaul of the federal workforce](https://www.cnn.com/politics/tracking-federal-workforce-firings-dg/index.html): includes data on who federal workers in your state are and where we live
+
 * [Federal News Network: A comprehensive look at DOGE’s firings and layoffs so far](https://federalnewsnetwork.com/agency-oversight/2025/02/a-comprehensive-look-at-doges-firings-and-layoffs-so-far/)
 
 * [CivicTechStrong: Federal Probationary/Term Employee Firings Tracker](https://civictechstrong.org/federal-probationary-term-employee-firings-tracker/)
