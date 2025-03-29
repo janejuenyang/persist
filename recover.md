@@ -73,6 +73,7 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
     * Personal tip for anyone considering using the listed AI tools: ***remember to review the results and fact-check!*** The type of AI used in these tools are optimized to create something that sounds plausible, but isn't necessarily accuracy.
 
 ## State and local government
+* [State and Local Government Resources](https://docs.google.com/document/d/1PAbXEGASkV-FSi-n5ks_W8NqCF_TdFD0NkJW3SycTfE/edit?tab=t.f2afe4z2qf0c): compiled by the Digital Service Network
 * [Government Works Weekly](https://governmentworks.substack.com/)
 * [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
 * [GovtJobs](https://www.govtjobs.com/)
