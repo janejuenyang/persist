@@ -16,7 +16,7 @@ The information in this repo has been shared by many communities and individuals
 * [Fed Layoffs](https://fedlayoffs.com/)
 * [Help Feds](https://helpfeds.com/)
 
-<small>***Disclaimer***: I am not a lawyer; please do not consider anything in this resource compilation as legal advice. Also, nothing on this website is intended or should be inferred as official support or endorsement of the content by the Department of Health and Human Services, Administration for Children and Families, or the United States government.
+<small>***Disclaimer***: I am not a lawyer; please do not consider anything in this resource compilation as legal advice. Also, nothing on this website is intended or should be inferred as official support or endorsement of the content by my employer.
 </small>
 
 # Federal Oath of Office
