@@ -58,6 +58,7 @@ Letters of Appreciation for Civil Servants
 Tens of thousands of public servants have been illegally fired since January 20, 2025 and media reports suggest hundreds of thousands more may be targeted. The loss of jobs have an immediate effect on our lives and families, but there are also huge economic and societal effects that will not be immediately obvious. More uncontrolled disease and foodborne outbreaks. More plane and car accidents. Less access to essential services in rural communities. Loss of business as households tighten budgets. Increased danger in national parks. The list is endless because federal government supports every corner of our nation's operations, from the highly visible like Social Security to the niche like overseeing nuclear waste stockpiles.
 
 If you want to help your community understand the throughline from the attack on public servants to the experiences and rights of everyday America, consider sharing your story on social media, letters to the editor or op-eds in your local newspaper, etc. 
+* [Tips on how to communicate your RIF story](https://www.your-rif-story.com/resources/telling-your-story)
 * [View an example outline of how to tell your story.](files/impact-story-outline.md)
 * [Get tips on writing your newsletters from the Op-Ed Project](https://www.theopedproject.org/)
 
