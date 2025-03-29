@@ -23,9 +23,12 @@ The information in this repo has been shared by many communities and individuals
 I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign **and domestic**; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.
 
 # Nevertheless, We Persist
-Profiles in courage
-
+We can all do something
+* [Choose Democracy](https://choosedemocracy.us/what-can-i-do/): starting points on how to orient and help fight the coup
 * [Resist List](https://choosedemocracy.us/resist-list): for hope-scrolling
+* [#altgov](https://bsky.app/starter-pack-short/FLUwv5d): Bluesky accounts of Feds with the inside scoop
+
+Profiles in courage 
 * [New York Times The Daily: Inside the Trump Purge: Federal Workers Tell Their Story](https://www.nytimes.com/2025/02/19/podcasts/the-daily/trump-ederal-workers-musk.html)
 * [Humans of Public Service](https://www.humansofpublicservice.org/): the human side of government through the stories of those who serve
 * [Who is Government?](https://www.washingtonpost.com/opinions/interactive/2025/who-is-government/): from the Washington Post, seven writers go in search of the essential public servant
