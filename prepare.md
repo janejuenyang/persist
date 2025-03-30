@@ -39,6 +39,7 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
 * Remember that everything done on your work channels (email, chat platforms) are not private. They can be accessed and read.
 * Be extra aware of potential scams and phishing
 * For personal communications, use encrypted messaging platforms like [Signal](https://signal.org/).
+* For a more in-depth set of digital security hygiene practices, refer to [this article from Andrej Karpathy (AI researcher)](https://karpathy.bearblog.dev/digital-hygiene/) or this [activist checklist](https://activistchecklist.org/essentials/).
 * Protect yourself from doxxing. Doxxing is when information about you, publicly available or secret, is shared for the purpose of causing harm.
     * [DHS Protect Yourself Online – Shield from Doxing](https://www.dhs.gov/sites/default/files/2024-11/24_1101_fps_doxing.pdf): four steps to protect yourself online. [Backup copy in case the resource is removed](/files/DHS-tips-to-shield-from-doxxing.pdf)
     * [Electronic Frontier Foundation: Doxxing: Tips To Protect Yourself Online & How to Minimize Harm](https://www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm): high-level tips
