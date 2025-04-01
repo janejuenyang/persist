@@ -28,6 +28,7 @@ This page includes trackers compiled by credible sources.
 
 # Impact of a Gutted Federal Government
 * Felt across the nation
+   * [The Impact Map](https://theimpactproject.org/the-impact-map/): The Impact Map provides timely data—as it becomes available—on policy, funding, and workforce changes and their localized effect.
    * [Dear Civil Servant: Blast Radius of Purges](https://www.ifyoucankeepit.org/p/blast-radius-of-purges): sample of downstream effects across all 50 states, D.C., and Puerto Rico    
 
 * More disease outbreaks
