@@ -14,6 +14,13 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
     * [Example request for termination reconsideration](files/reconsideration-request-template.md)
     * [Informal Grievance Template for Adverse Personnel Actions](https://www.muellershewrote.com/p/informal-grievance-template-for-adverse)
 
+* **If you were part of a reduction-in-force (RIF, referred to as a layoff in the private sector), review the attachments and your RIF notice letter carefully.** 
+    * Respond via the email address provided in your RIF notice with any corrections that apply to you (e.g. PMAP, veterans preference, service comp date doesn’t match SF-50).
+    * If you want to fight the RIF, meaning you would like to be reinstated, here are some questions to pursue:
+        * What was the specific competitive area? Did it include a geographic component?
+        * What is the competitive level? Is it only my grade and series or does something else go into the level, like geography?
+        * [Additional suggested questions and language](https://docs.civictechstrong.org/s/7b0a4147-a921-469c-aee4-d340f632cc44) provided by Civic Tech Strong
+
 * [Civil Service Strong: U.S. Merit Systems Protection Board (MSPB): How to File an Appeal](https://www.civilservicestrong.org/resource/us-mspb-how-to-file-an-appeal) Federal employees in the competitive service and/or past their probationary periods have the right to file an appeal to the MSPB if their terminations are based on partisan political reasons or their marital status [5 C.F.R. § 315.806(b)](https://www.law.cornell.edu/cfr/text/5/315.806) or due to improper procedures [5 C.F.R. § 315.805](https://www.law.cornell.edu/cfr/text/5/315.805). The primary function of the MSPB is to protect Federal merit systems against partisan political and other prohibited personnel practices. (Deadline: within 30 days)
 
 * [Office of Special Counsel (OSC)](https://osc.gov/Services/Pages/PPP-FileComplaint.aspx): Employees may file complaints with the Office of Special Counsel alleging the government committed a prohibited personnel practice, such as whistleblower retaliation. 5 U.S.C. §§ [1214](https://www.law.cornell.edu/uscode/text/5/1214), [2302](https://www.law.cornell.edu/uscode/text/5/2302); [5 C.F.R. part 1800](https://www.ecfr.gov/current/title-5/chapter-VIII/part-1800). 
