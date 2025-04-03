@@ -13,8 +13,11 @@ This repository includes resources for federal civil servants, including those w
 
 The information in this repo has been shared by many communities and individuals across multiple forums: thank you. Other folks have also put together consolidated resources. I'm listing them below because we all absorb information differently; use whatever resource makes most sense to the way your brain works.
 
+* [Crowdsourcing advice for federal employees](https://docs.google.com/document/d/1K4StW2FsnveRxFxSdUlgeO47jGBB89Icso9RpV1rpHY/edit?tab=t.0)
 * [Fed Layoffs](https://fedlayoffs.com/)
+* [Feds Forward](https://www.fedsforward.org/)
 * [Help Feds](https://helpfeds.com/)
+* [Just In Case](https://git-sci.github.io/)
 
 <small>***Disclaimer***: I am not a lawyer; please do not consider anything in this resource compilation as legal advice. Also, nothing on this website is intended or should be inferred as official support or endorsement of the content by my employer.
 </small>
