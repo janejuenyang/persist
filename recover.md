@@ -47,6 +47,7 @@ Letters of Appreciation for Civil Servants
     * If you are on TSP, you can rollover to an IRA or keep your TSP account. Review options for [FERS on OPM's website](https://www.opm.gov/retirement-center/fers-information/former-employees/). Link to [WebArchive in case the page is taken down.](https://web.archive.org/web/20250213184222/https://www.opm.gov/retirement-center/fers-information/former-employees/)
     * You can get a refund of your FERS retirement contributions, which can be paid out in cash or rolled into an IRA. Learn more about [FERS options for former feds on OPM's website](https://www.opm.gov/retirement-center/fers-information/former-employees/).
     * If you are 55 or older, familiarize yourself with the [TSP Rule of 55](https://www.federalpensionadvisors.com/post/tsp-rule-of-55)
+    * If you were RIFed, you can go to [GRB](https://platform.grbinc.com/) to calculate your severance as well as learn more about what benefits you can and cannot keep.  Severance calculator is under "retirement". You can also use the [Severance Pay worksheet from OPM](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/severance-pay-estimation-worksheet/).
 * **Apply for public benefits**: if your household income has dropped significantly, you may qualify. Eligibility varies by state.
     * [211 (Emergency Help for Rent, Food, & Bills)](https://www.211.org); you can also call 211 
     * [Food Support (SNAP, WIC)](https://www.fns.usda.gov/snap/state-directory)
