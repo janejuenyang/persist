@@ -29,6 +29,8 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
 
 ## On reductions-in-force (RIFs)
 * [Congressional Research Service: an overview of Reductions in Force (RIFs) (PDF)](https://files.civilservicestrong.org/Reductions%20in%20Force%20(RIFs)_%20An%20Overview.pdf): outlines the process that is supposed to be followed when the federal government lays off people. 
+* [OPM Overview of Reduction in Force (RIF)](files/reduction-in-force-overview-2025.pdf)
+* [OPM Workforce Reshaping Operations Handbook](files/workforce_reshaping.pdf)
 * [Lawfare: A Primer on Reductions in Force](https://www.lawfaremedia.org/article/a-primer-on-reductions-in-force)
 
 ## On filing a complaint if you believe you were discriminated against
