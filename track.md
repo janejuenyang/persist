@@ -9,6 +9,8 @@ This page includes trackers compiled by credible sources.
 
 * [Just Security: Litigation Tracker: Legal Challenges to Trump Administration Actions](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)
 
+* [Legal Industry Responses to Fascist Attacks Tracker](https://docs.google.com/spreadsheets/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/edit?gid=287708862#gid=287708862)
+
 # Illegally Fired Federal Employees
 * [CNN: Tracking Trump’s overhaul of the federal workforce](https://www.cnn.com/politics/tracking-federal-workforce-firings-dg/index.html): includes data on who federal workers in your state are and where we live
 
