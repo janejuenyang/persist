@@ -17,6 +17,8 @@ Letters of Appreciation for Civil Servants
     * [Interfaith Alliance](https://files.civilservicestrong.org/Civil%20Service%20-%20Faith%20Letter%20-%202.5.25.pdf)
 
 **Rest is Important - Find Moments of Joy**
+
+* Nourish your next chapter: [ wellfed ](https://wearewellfed.com/)
 * Here come the smiles
     * [Smithsonian's National Zoo Giant Panda Cam](https://nationalzoo.si.edu/webcams/panda-cam)
     * [Gov. Pritzker Says Lake Michigan Is Now Called Lake Illinois](https://www.youtube.com/watch?v=059lXXlPD08)
