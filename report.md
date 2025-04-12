@@ -30,6 +30,7 @@
 * [Fierce Healthcare](https://www.fiercehealthcare.com/) Noah Tong ntong@questex.com / Signal at ntong.49
 * [GovExec](https://www.govexec.com/) Dave Dimolfetta ddimolfetta@govexec.com or Signal @ djd.99 
 * [Guardian](https://www.theguardian.com/us-news/us-politics): covers NOAA; Signal at davelevitan.26
+* [LA Times](https://www.latimes.com/topic/trump-administration): Jenny Gold, covering direct impact on babies, young children, and their families; Signal: jennyagold.77; jenny.gold@latimes.com
 * [NBC News](https://www.nbcnews.com/politics): interested in speaking with people who are familiar with the specific technical details of onboarding DOGE staff at the federal agency level — USAID or CFPB or wherever. You can reach me on Signal at: davidingram.77. Will honor requests for anonymity.
 * [New York Times](https://www.nytimes.com/section/politics)
     * [Kate Conger](https://www.nytimes.com/by/kate-conger): focused on DOGE
@@ -51,4 +52,6 @@
     * Jeff Stein: jeff.stein@washpost.com or jstein_wapo.1066 on Signal
     * Jonathan O’Connell: jonathan.oconnell@washpost.com or jonathanoc.76 on Signal
     * Lisa Rein: lisa.rein@washpost.com or 202-821-3120 on Signal
-* [Wired](https://www.wired.com/category/politics/): using a nonwork phone or computer, contact the reporter securely using a personal device on Signal at makenakelly.32
+* [Wired](https://www.wired.com/category/politics/): 
+    * Makena Kelly: focuses on intersection of politics, power, and technology; using a nonwork phone or computer, contact the reporter securely using a personal device on Signal at makenakelly.32
+    * Vittoria Elliott: covers platforms and power (DOGE beat); Using a nonwork phone or computer, contact the reporter securely on Signal at Vittoria89.82.
