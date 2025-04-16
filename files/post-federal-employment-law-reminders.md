@@ -3,7 +3,33 @@ Federal employees have restrictions on post-federal employment for ethical reaso
 
 *Disclaimer*: The following is informational, not legal advice.
 
-If you have been put on administrative leave or illegally fired, you are not required to notify anyone such as your agency Ethics office regarding your job search. However, as you transition from federal service, remember the statutes governing post-employment that apply to all federal employees. Specifically, Procurement Rules when Seeking Employment
+If you have been put on administrative leave or illegally fired, you are not required to notify anyone such as your agency Ethics office regarding your job search. However, as you transition from federal service, remember the statutes governing post-employment that apply to all federal employees. Specifically, rules around reporting outside activities and procurement rules apply when weeking employment.
+
+# Reporting Outside Activities
+If you to accept a non-Federal position or do some consultant work while on administrative leave, you must submit the HHS-520 Request. The HHS Supplemental Ethics Regulations at 5 C.F.R. § 5501.106 generally require ACF employees must obtain approval before engaging in the following outside activities or employment by completing [*each department has a process, e.g. the HHS 520 Request*]. Employees must seek approval when they:
+
+* Provide consultative or professional services based upon knowledge or skill in a field of science or learning customarily acquired through specialized training or higher education, for example:
+
+    * An employee who is an attorney volunteers with a non-profit organization helping them prepare for a lawsuit.
+    * An employee holding a real estate license volunteers his realtor services to his church in search of land for new facility.
+ 
+* Engage in teaching, speaking, writing or editing that relates to the employee’s official duties;
+
+* Serve as an officer, director, or board member of a non-Federal entity, or as a member of a group, such as a planning commission, editorial board, advisory council, or scientific or technical advisory board or panel, which requires the provision of advice, counsel, or consultation, for example;
+
+    * An employee serves on the board of directors for the Capital Area Food Bank.
+    * An employee serves as the President of the American Bar Association.
+    * An employee serves as a member of the Maryland Social Workers’ Taskforce or
+ 
+* Engage in outside employment with any “prohibited source” of ACF. For example, an entity that receives an HHS-funded grant, contract, cooperative agreement, cooperative research and development agreement.
+
+Prior approval is not required for uncompensated service as an officer, director, or board member of a political, religious, social, fraternal, or recreational organization where the outside activity will not require professional services. For examples for when prior approval is not required:
+
+* An employee serves as an uncompensated alumnae member of the National Executive Board for Omega Phi Alpha National Service Sorority.
+* An employee serves as an uncompensated treasurer of his high school alumni class.
+* An employee serves on the board of directors of his tennis club.
+
+In addition, there is a regulation on use of nonpublic information at 5 C.F.R. § 2635.703(a), that prohibits an employee from engaging in a financial transactions using nonpublic information, nor allow the improper use of nonpublic information to further his own private interest or that of another, whether through advice or recommendation, or by knowing unauthorized disclosure. That you would not be allowed to use any ACF information while engaging in this outside activity.
 
 # Two-Year Official Responsibility Provision
 [18 U.S.C. § 207(a)(2) Two-Year Official Responsibility Provision](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim). For two years after leaving federal employment, former employees cannot make representational communications to or appearances before the Government regarding specific party matters that were pending under their official responsibility during their last year of government service. See also [5 C.F.R. § 2641.202](https://www.ecfr.gov/cgi-bin/text-idx?SID=f75b05e6e58136dde880173e3942eead&mc=true&node=se5.3.2641_1202&rgn=div8).
