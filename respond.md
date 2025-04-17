@@ -34,9 +34,19 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 *Note*: federal employees must exhaust their administrative remedies before going to court.
 
 ## Class Actions
-* [Democracy Forward: Federal Workers File Class-Wide Complaint Challenging Mass Terminations with Office of Special Counsel](https://democracyforward.org/updates/federal-workers-file-class-wide-complaint-challenging-mass-terminations-with-office-of-special-counsel/): Democracy Forward is working with the [Alden Law Group](https://www.employmentlawfederal.com/). Email Consultation@AldenLG.com.
+* **Employees Targeted for DEI Activities**: [ACLU-DC, Lieff Cabraser Heimann & Bernstein, LLP; Kalijarvi, Chuzi, Newman & Fitch PC; and Democracy Forward](https://www.acludc.org/en/press-releases/federal-employees-file-class-action-complaint-against-trump-administration-0): Workers fired (or RIFed or placed on leave or subjected to any other adverse action) for their association (past or present) with DEI, ACLU-DC is putting together a DEI discrimination/retaliation case. Can reach out to ACLU's co-counsel for intake at Lieff Cabraser (law firm): DEIworker@LCHB.com
 
-* [James & Hoffman](https://www.jamhoff.com/) is exploring filing class or group claims on behalf of probationary employees affected by mass terminations. If people are interested in participating, they can send an email to inquiries@jamhoff.com. It would be helpful for them to include this information: (1) the name of the agency; (2) a copy of the termination notice; (3) whether the employee is part of a union bargaining unit, if they know.
+* **Probationary Employees**
+    
+    * [U.S. District Court of Maryland](https://www.courtlistener.com/docket/69714275/maryland-v-united-states-department-of-agriculture/): 20-state lawsuit against the Trump administration’s mass firing of probationary federal workers. Covers Arizona, California, Colorado, Connecticut, Delaware, District Of Columbia, Hawaii,Illinois, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, and Wisconsin.
+
+    * [U.S. District Court of Northern California](https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/): On Feb. 19, AFGE, AFGE Local 1216, AFSCME, United Nurses Associations of California/Union of Health Care Professionals filed a complaint in the U.S. District Court, Northern District of California, San Francisco Division, challenging the mass firings of federal probationary employees in violation of the Constitution and APA. Covers Veterans Affairs, Agriculture, Defense, Energy, the Interior and Treasury. 
+    
+    * [Democracy Forward: Federal Workers File Class-Wide Complaint Challenging Mass Terminations with Office of Special Counsel](https://democracyforward.org/updates/federal-workers-file-class-wide-complaint-challenging-mass-terminations-with-office-of-special-counsel/): Democracy Forward is working with the [Alden Law Group](https://www.employmentlawfederal.com/). Email Consultation@AldenLG.com.
+
+    * [James & Hoffman](https://www.jamhoff.com/) is exploring filing class or group claims on behalf of probationary employees affected by mass terminations. If people are interested in participating, they can send an email to inquiries@jamhoff.com. It would be helpful for them to include this information: (1) the name of the agency; (2) a copy of the termination notice; (3) whether the employee is part of a union bargaining unit, if they know.
+
+* **Reduction-in-Force (RIFed)**: tbd
 
 ## Federal Employment Lawyers
 *Disclaimer*: this is a list of lawyers I've collected from various threads. I have not vetted them.
