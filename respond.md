@@ -40,6 +40,7 @@ Any federal employee who is let go as part of the wave of layoffs or firings can
 
 ## Federal Employment Lawyers
 *Disclaimer*: this is a list of lawyers I've collected from various threads. I have not vetted them.
+* [Rise Up: Federal Workers Legal Defense Network](https://workerslegaldefense.org/): Democracy Forward’s Civil Service Strong initiative has partnered with the AFL-CIO, We the Action, and other partners to launch the Rise Up: Federal Workers Legal Defense Network. Rise Up is mobilizing and training thousands of lawyers to provide free legal guidance to federal workers. Rise Up will leverage the We the Action platform to match current or former federal workers in need of legal assistance with lawyers trained to answer questions and provide information to workers on their legal rights. Initial consultations are free of charge. Lawyers can provide a variety of assistance from intakes and general guidance to direct representation in appeals or legal proceedings.
 * [Lawyer’s Committee for Civil Rights Under the Law list of private employment lawyers.](https://docs.google.com/document/d/1y8Ql_dP6m4adUvNof7GD8M5DuzyDX0B4s6q4kYX7xY0/edit?tab=t.0)
 * Correia & Puth: 202-602-6500
 * Erlich Law: 703-791-9087
