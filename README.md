@@ -31,6 +31,7 @@ We can all do something
 * [Choose Democracy](https://choosedemocracy.us/what-can-i-do/): starting points on how to orient and help fight the coup
 * [Resist List](https://choosedemocracy.us/resist-list): for hope-scrolling
 * [#altgov](https://bsky.app/starter-pack-short/FLUwv5d): Bluesky accounts of Feds with the inside scoop
+* [We the People Dissest](https://thepeopledissent.substack.com/): information and announcements on upcoming protests, boycotts, call campaigns, and strikes
 
 Profiles in courage 
 * [New York Times The Daily: Inside the Trump Purge: Federal Workers Tell Their Story](https://www.nytimes.com/2025/02/19/podcasts/the-daily/trump-ederal-workers-musk.html)
