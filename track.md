@@ -32,6 +32,7 @@ This page includes trackers compiled by credible sources.
 * Felt across the nation
    * [The Impact Map](https://theimpactproject.org/the-impact-map/): The Impact Map provides timely data—as it becomes available—on policy, funding, and workforce changes and their localized effect.
    * [Dear Civil Servant: Blast Radius of Purges](https://www.ifyoucankeepit.org/p/blast-radius-of-purges): sample of downstream effects across all 50 states, D.C., and Puerto Rico    
+   * [ProPublica: The Trump Administration's War on Children](https://www.propublica.org/article/how-trump-budget-cuts-harm-kids-child-care-education-abuse)
 
 * More disease outbreaks
     * [AP: Trump administration cuts reach FDA employees in food safety, medical devices and tobacco products](https://apnews.com/article/fda-job-cuts-trump-hhs-kennedy-cdc-nih-76dee97eee8209b2605fadac34427aab)
