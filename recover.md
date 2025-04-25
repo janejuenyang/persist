@@ -55,6 +55,7 @@ Letters of Appreciation for Civil Servants
     * [Food Support (SNAP, WIC)](https://www.fns.usda.gov/snap/state-directory)
     * [Cash Assistance (TANF)](https://www.acf.hhs.gov/ofa/map/contact-information-tanf-offices)
     * [Utility Assistance (LIHEAP)](https://www.acf.hhs.gov/ocs/programs/liheap)
+* **If applicable, seek compensation for mental health conditions caused or aggravated by a federal employer**: through the [Department of Labor’s Office of Workers’ Compensation Programs (OWCP) to seek benefits under the Federal Employees Compensation Act (FECA)](https://nteu335.org/2025/04/24/how-to-seek-compensation-for-mental-health-conditions-caused-or-aggravated-by-a-federal-employer/)
 * **If needed, consider an emergency loan** from the [Federal Employee Education and Assistance Fund (FEEA)](https://feea.org/)
 
 # Consider telling your story
