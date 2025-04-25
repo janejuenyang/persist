@@ -24,7 +24,7 @@ Letters of Appreciation for Civil Servants
     * [Gov. Pritzker Says Lake Michigan Is Now Called Lake Illinois](https://www.youtube.com/watch?v=059lXXlPD08)
 * Playlists
     * [Calming Instrumental Covers (Spotify)](https://open.spotify.com/playlist/37i9dQZF1DX9j444F9NCBa?si=Y9w8G-hgQAK9hp1cPYVPlA): as advertised
-    * [resilience playlist (Spotify)](https://open.spotify.com/playlist/4dGg8cXRVGDVh5hvj88CWy?si=XLFA5aUtQt2D11Yco_uylA): ballads and sass
+    * [resilience playlist (Spotify)](https://open.spotify.com/playlist/4dGg8cXRVGDVh5hvj88CWy?si=7F7ROaSXRIqzXB5eGlWkiw): ballads and sass
 * Manage your doomscrolling
     * [Lock Me Out - App/Site Blocker for Android](https://play.google.com/store/apps/details?id=com.teqtic.lockmeout)
 
