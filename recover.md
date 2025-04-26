@@ -82,6 +82,7 @@ Beyond your personal network and general job aggregators like LinkedIn and Indee
 * [Government Works Weekly](https://governmentworks.substack.com/)
 * [Public Sector Job Board](https://publicsectorjobboard.substack.com/)
 * [GovtJobs](https://www.govtjobs.com/)
+* [GovJobs.fyi](https://www.govjobs.fyi/)
 * [Work For America Civic Match](https://www.workforamerica.org/civicmatch)
 * Consider running for public office
     * Remember that while still employed by the federal government, you are not allowed to run for a partisan office
