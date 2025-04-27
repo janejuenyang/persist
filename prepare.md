@@ -32,6 +32,7 @@ Download all of your eOPF files, performance evaluations, SF-50s, leave and earn
 * [OPM Overview of Reduction in Force (RIF)](files/reduction-in-force-overview-2025.pdf)
 * [OPM Workforce Reshaping Operations Handbook](files/workforce_reshaping.pdf)
 * [Lawfare: A Primer on Reductions in Force](https://www.lawfaremedia.org/article/a-primer-on-reductions-in-force)
+* [United Benefits: DRP, VSIP, RIF & VERA Explained](https://ub1.wistia.com/medias/yxltzv1542)
 
 ## On filing a complaint if you believe you were discriminated against
 * [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process): If you are a federal employee or job applicant, the law protects you from discrimination because of your race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information. The law also protects you from retaliation if you oppose employment discrimination, file a complaint of discrimination, or participate in the EEO complaint process (even if the complaint is not yours.) [View the WebArchive in case the original website is taken down.](https://web.archive.org/web/20250215075905/https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process)
