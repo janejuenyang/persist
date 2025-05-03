@@ -31,7 +31,7 @@ Letters of Appreciation for Civil Servants
 # Find mental health support
 * **If you are in crisis, call 988**
 * Check the Employee Assistance Program (EAP) at your agency; some continue services for a period after separation
-* Find local mental health support through the [National Alliance on Mental Health](https://www.nami.org/) or [Open Path Collective](https://openpathcollective.org/)
+* Find local mental health support through the [Therapist Recruitment Project](https://www.axios.com/local/washington-dc/2025/03/25/free-therapy-federal-workers-doge-cuts), [National Alliance on Mental Health](https://www.nami.org/) or [Open Path Collective](https://openpathcollective.org/)
 * Find resources from the [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help)
 * Connect with other feds for mutual support -- check trusted connections for organized networks (e.g. Signal groups)
 * Lean on your personal support network -- it is okay to ask for and accept help
