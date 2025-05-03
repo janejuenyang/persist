@@ -26,6 +26,8 @@ This page includes trackers compiled by credible sources.
 
 * [New York Times: Which Federal Programs Are Under Scrutiny? The Budget Office Named 2,600 of Them.](https://www.nytimes.com/interactive/2025/01/28/upshot/federal-programs-funding-trump-omb.html?unlocked_article_code=1.s04.7nEL.x2963ohitDJR&amp;smid=nytcore-ios-share&amp;referringSource=articleShare)
 
+* [Disappeared in America](https://theimmigrationhub.shorthandstories.com/disappeared-in-america/)
+
 * [ProPublica DOGE Team Tracker](https://projects.propublica.org/elon-musk-doge-tracker/)
 
 # Impact of a Gutted Federal Government
