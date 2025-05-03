@@ -13,6 +13,8 @@ This repository includes resources for federal civil servants, including those w
 
 The information in this repo has been shared by many communities and individuals across multiple forums: thank you. Other folks have also put together consolidated resources. I'm listing them below because we all absorb information differently; use whatever resource makes most sense to the way your brain works.
 
+
+* [Civic Action Hub](https://civicactionhubmd.com/home/resources/for-federal-employees/)
 * [Crowdsourcing advice for federal employees](https://docs.google.com/document/d/1K4StW2FsnveRxFxSdUlgeO47jGBB89Icso9RpV1rpHY/edit?tab=t.0)
 * [Fed Layoffs](https://fedlayoffs.com/)
 * [Feds Forward](https://www.fedsforward.org/)
