@@ -18,6 +18,7 @@ The information in this repo has been shared by many communities and individuals
 * [Crowdsourcing advice for federal employees](https://docs.google.com/document/d/1K4StW2FsnveRxFxSdUlgeO47jGBB89Icso9RpV1rpHY/edit?tab=t.0)
 * [Fed Layoffs](https://fedlayoffs.com/)
 * [Feds Forward](https://www.fedsforward.org/)
+* [Fired but Fighting](https://firedbutfighting.org/)
 * [Help Feds](https://helpfeds.com/)
 * [Just In Case](https://git-sci.github.io/)
 * [Spoon-Fed](https://www.spoonfederal.com/)
