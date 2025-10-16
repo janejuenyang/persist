@@ -17,6 +17,7 @@ This page includes trackers compiled by credible sources.
 * [Federal News Network: A comprehensive look at DOGE’s firings and layoffs so far](https://federalnewsnetwork.com/agency-oversight/2025/02/a-comprehensive-look-at-doges-firings-and-layoffs-so-far/)
 * [Layoffs.fyi](https://layoffs.fyi/)
 * [New York Times: Where Trump, Musk, and DOGE have Cut Federal Workers So Far](https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html?unlocked_article_code=1.xE4.nznv.BSeYFQdp-gw9&smid=url-share)
+* [New York Times: How Much Smaller Is the Federal Work Force? Shutdown Plans Offer a Clue.](https://www.nytimes.com/interactive/2025/10/01/us/trump-government-shutdown-federal-cuts.html?unlocked_article_code=1.sk8.GbDe.ruep3XTE3aQc&smid=url-share)
 * [Wall Street Journal: DOGE’s Federal Job Cuts Threaten Republican Districts Too](https://www.wsj.com/politics/policy/federal-workers-doge-job-cuts-maps-988416ec)
 
 # Administration Actions
